@@ -1,0 +1,12 @@
+    {
+        id: 1,
+        title: 'Core Ball',
+        image: CoreBall,
+        url: "https://html5.gamedistribution.com/rvvASMiM/42a35a1fecb248e29c549b4104ca2ae5/index.html?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Ffootball-run&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL2Zvb3RiYWxsLXJ1biIsInBhcmVudERvbWFpbiI6ImdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjp0cnVlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE2In0%253D",
+    },
+    {
+        id: 2,
+        title: '4 Colors',
+        image: Colors,
+        url: "https://html5.gamedistribution.com/rvvASMiM/344ef038c9b94ae59307c5fa164044b3/index.html?gdpr-tracking=0&gdpr-targeting=0&gdpr-third-party=0&gd_sdk_referrer_url=https%3A%2F%2Fgamedistribution.com%2Fgames%2Ftotemia-cursed-marbles&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2dhbWVkaXN0cmlidXRpb24uY29tL2dhbWVzL3RvdGVtaWEtY3Vyc2VkLW1hcmJsZXMiLCJwYXJlbnREb21haW4iOiJnYW1lZGlzdHJpYnV0aW9uLmNvbSIsInRvcERvbWFpbiI6ImdhbWVkaXN0cmlidXRpb24uY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNiJ9",
+    },
